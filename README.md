@@ -17,6 +17,26 @@ This repository contains the complete, verified implementations, benchmark suite
    - High-throughput text building (String vs StringBuilder), Collections (List, Queue, Set, Map), Generic Leaderboard, Hospital Emergency Triage, and Day-4 Multi-Bucket Queue Redesign (Tasks Q1 to Q7).
    - **Report PDF:** [Java_Assignment_2_Report_192311094.pdf](./Java-Assignment-2/Java_Assignment_2_Report_192311094.pdf)
 
+3. **[Assignment 3 (CO3) — Concurrency, Multithreading & High-Throughput Processing](./Java-Assignment-3/)**
+   - Concurrent Stations, Thread Synchronization, Semaphore Locks, Deadlock Prevention, and Multithreaded Result Processing (Tasks Q1 to Q7).
+4. **[Assignment 4 (CO4) — Event-Driven GUI Design & JDBC Integration](./Java-Assignment-4/)**
+   - GUI Design Review, Event Delegation Model, AWT/Swing Layouts, Event Forensics, 4 Event-Handling Styles, and Campus Event Registration with MySQL JDBC (Tasks 1 to 6).
+   - **Report PDF:** [Assignment4-Report.pdf](./Java-Assignment-4/Report/Assignment4-Report.pdf)
+
+---
+
+## Assignment 4 (CO4) Quick Navigation
+
+- **[Master README & Execution Guide](./Java-Assignment-4/README.md)**
+- **[Task 1: GUI Design Review & Refactored Fee Payment](./Java-Assignment-4/Task01-GUI-Design-Review/)**
+- **[Task 2: Hospital Outpatient Appointment Desk](./Java-Assignment-4/Task02-Hospital-Appointment/)**
+- **[Task 3: Campus Library Search Screen & Layout Resizing](./Java-Assignment-4/Task03-Library-Search/)**
+- **[Task 4: Drawing Pad Event Forensics & Repaint Recovery](./Java-Assignment-4/Task04-Drawing-Pad/)**
+- **[Task 5: Currency Converter in 4 Event-Handling Styles](./Java-Assignment-4/Task05-Currency-Converter/)**
+- **[Task 6: Campus Event Registration Layered Swing-JDBC System](./Java-Assignment-4/Task06-Campus-Event-Registration/)**
+- **[Test Suite Specifications & Verification Results](./Java-Assignment-4/Test-Results/)**
+- **[Comprehensive PDF Report](./Java-Assignment-4/Report/Assignment4-Report.pdf)**
+
 ---
 
 ## Assignment 2 (CO2) Quick Navigation
