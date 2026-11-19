@@ -16,12 +16,33 @@ This repository contains the complete, verified implementations, benchmark suite
 2. **[Assignment 2 (CO2) — Collections, Generics, and Empirical Benchmarking](./Java-Assignment-2/)**
    - High-throughput text building (String vs StringBuilder), Collections (List, Queue, Set, Map), Generic Leaderboard, Hospital Emergency Triage, and Day-4 Multi-Bucket Queue Redesign (Tasks Q1 to Q7).
    - **Report PDF:** [Java_Assignment_2_Report_192311094.pdf](./Java-Assignment-2/Java_Assignment_2_Report_192311094.pdf)
-
 3. **[Assignment 3 (CO3) — Concurrency, Multithreading & High-Throughput Processing](./Java-Assignment-3/)**
    - Concurrent Stations, Thread Synchronization, Semaphore Locks, Deadlock Prevention, and Multithreaded Result Processing (Tasks Q1 to Q7).
 4. **[Assignment 4 (CO4) — Event-Driven GUI Design & JDBC Integration](./Java-Assignment-4/)**
    - GUI Design Review, Event Delegation Model, AWT/Swing Layouts, Event Forensics, 4 Event-Handling Styles, and Campus Event Registration with MySQL JDBC (Tasks 1 to 6).
    - **Report PDF:** [Assignment4-Report.pdf](./Java-Assignment-4/Report/Assignment4-Report.pdf)
+5. **[Assignment 5 (CO5) — Data Persistence Engineering: Files, Serialization & Databases](./Java-Assignment-5/)**
+   - Delimited & Binary File Formats, I/O Buffering Benchmarks (1–50 MB, 240x speedup), Generic DAO Pattern, Transient Fields & Object-Graph Serialization, SQL Injection Defense, JDBC Batch Ingestion (33k rows/sec), Transaction Atomicity Rollback Proof, and Enterprise 12-Campus Database Migration.
+   - **Report PDF:** [Assignment5_Report.pdf](./Java-Assignment-5/Assignment5_Report.pdf)
+   - **Report Markdown:** [Assignment5_Report.md](./Java-Assignment-5/Assignment5_Report.md)
+
+---
+
+## Assignment 5 (CO5) Quick Navigation
+
+- **[Master Assignment 5 README & Execution Guide](./Java-Assignment-5/README.md)**
+- **Part A: Persistence Design & Algorithmic Pseudocode (SIMATS Standard):**
+  - **[Task A1: Delimited & Binary File Format Design](./Java-Assignment-5/Part-A-Design/Task-A1-File-Format/Answer.md)**
+  - **[Task A2: Buffered I/O Analysis & 50MB Cost Prediction](./Java-Assignment-5/Part-A-Design/Task-A2-Buffered-IO/Answer.md)**
+  - **[Task A3: Generic DAO Design Pattern & Relational Mapping](./Java-Assignment-5/Part-A-Design/Task-A3-DAO-Pattern/Answer.md)**
+  - **[Task A4: Object-Graph Serialization, Transient Fields & Versioning](./Java-Assignment-5/Part-A-Design/Task-A4-Serialization/Answer.md)**
+  - **[Task A5: ACID Transaction Design & SQL Injection Defense](./Java-Assignment-5/Part-A-Design/Task-A5-Transactions-SQL-Injection/Answer.md)**
+- **Part B: Implementation & Empirical Benchmarks:**
+  - **[Task B1: Instrumented Bus-Pass File Store & Buffering Suite](./Java-Assignment-5/Part-B-Implementation/Task-B1-File-Store/)**
+  - **[Task B2: Adversarial SQL Injection & Malformed File Ingestion Tests](./Java-Assignment-5/Part-B-Implementation/Task-B2-Adversarial-Inputs/)**
+  - **[Task B3: Statement vs PreparedStatement vs Batch (1k to 100k rows)](./Java-Assignment-5/Part-B-Implementation/Task-B3-JDBC-Batch/)**
+  - **[Task B4: Enterprise 12-Campus Migration & Database Inspector](./Java-Assignment-5/Part-B-Implementation/Task-B4-Final-Decision/)**
+- **[Empirical Performance Charts & Visual Evidence](./Java-Assignment-5/evidence/performance-charts/)**
 
 ---
 
